@@ -11,7 +11,7 @@ Team
 
 .. _Mildreycc: https://github.com/Mildreycc
 .. _fdeandres: https://github.com/fdeandres
-.. _fjjcastillon: https://github.com/fjjcastillo
+.. _fjjcastillo: https://github.com/fjjcastillo
 
 Definition
 ----------
