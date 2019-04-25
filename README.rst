@@ -5,9 +5,13 @@ Cyber Attack Taxonomy
 Team
 ----
 
- - Mildrey Carbonell Castro;
- - Francisco Luis de Andres Perez;
- - Francisco Jimenez del Castillo
+ - Mildreycc_ *Mildrey Carbonell Castro*
+ - fdeandres_ *Francisco Luis de Andres Perez*
+ - fjjcastillo_ *Francisco Jimenez del Castillo*
+
+.. _Mildreycc: https://github.com/Mildreycc
+.. _fdeandres: https://github.com/fdeandres
+.. _fjjcastillon: https://github.com/fjjcastillo
 
 Definition
 ----------
@@ -29,4 +33,6 @@ The attack phases are distributed trough this seven steps:
   6. Lateral Movements
   7. Target Impact Execution
 
+WorkFlow
+--------
 .. image:: Images/flow_diagram_EN.jpg
