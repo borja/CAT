@@ -5,9 +5,15 @@ Cyber Attack Taxonomy
 Team
 ----
 
- - Mildreycc_ *Mildrey Carbonell Castro*
- - fdeandres_ *Francisco Luis de Andres Perez*
- - fjjcastillo_ *Francisco Jimenez del Castillo*
++-----------------+--------------------------------+
+| **Github user** | **Name**                       |
++=================+================================+
+| Mildreycc_      | Mildrey Carbonell Castro       |
++-----------------+--------------------------------+
+| fdeandres_      | Francisco Luis de Andrés Pérez |
++-----------------+--------------------------------+
+| fjjcastillo_    | Francisco Jiménez del Castillo |
++-----------------+--------------------------------+
 
 .. _Mildreycc: https://github.com/Mildreycc
 .. _fdeandres: https://github.com/fdeandres
