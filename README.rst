@@ -31,7 +31,7 @@ CAT is defined as the main strategy where Tactics,
 Technics and procedures are allocated.
 The attack phases are distributed trough this seven steps:
 
-  1. Target_Profiling_
+  1. Target Profiling_
   2. Compromise
   3. Infiltration
   4. Persistence
@@ -39,7 +39,7 @@ The attack phases are distributed trough this seven steps:
   6. Lateral Movements
   7. Target Impact Execution
 
-.. _Target_Profiling: CAT\ Strategy/1.\ Target\ Profiling
+.. _Target Profiling: CAT Strategy/1. Target Profiling
 
 WorkFlow
 --------
