@@ -29,4 +29,4 @@ The attack phases are distributed trough this seven steps:
   6. Lateral Movements
   7. Target Impact Execution
 
-.. image:: images/flow_diagram_EN.jpg
+.. image:: Images/flow_diagram_EN.jpg
